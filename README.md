@@ -4,8 +4,6 @@
 
 This project took a about 10 hrs to complete. Goal: to further my knowledge on HTML, CSS, and JS. I learned the basics of these three languages. There is much more to learn.
 
-- [Installation]
-
 ## Installation
 
 N/A
